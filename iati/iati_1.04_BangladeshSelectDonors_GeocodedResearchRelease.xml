@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
-<iati-activities generated-datetime="2016-03-25T16:25:59" version="1.04">
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+<iati-activities generated-datetime="2016-04-06T17:13:22" version="1.04">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -91,7 +91,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -118,7 +118,7 @@
 		</transaction>
 		<sector code="21010" percentage="100.00" vocabulary="DAC"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -138,7 +138,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				500000.0
+				516456.920428
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -155,7 +155,7 @@
 		<sector code="24010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -174,7 +174,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				3500000.0
+				3615198.44299
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -191,7 +191,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -211,7 +211,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				1500000.0
+				1549370.76128
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -228,7 +228,7 @@
 		<sector code="32000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -248,7 +248,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				2000000.0
+				2065827.68171
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -265,7 +265,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -285,7 +285,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				500000.0
+				516456.920428
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -338,7 +338,7 @@
 		<sector code="14020" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -358,7 +358,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				700000.0
+				687290.601577
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -375,7 +375,7 @@
 		<sector code="22040" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -395,7 +395,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				500000.0
+				490921.858269
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -412,7 +412,7 @@
 		<sector code="24010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -450,7 +450,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -469,7 +469,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				1200000.0
+				1239496.60903
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -846,7 +846,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -883,7 +883,7 @@
 		<sector code="21010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -902,14 +902,14 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				700000.0
+				723039.688599
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
 		</transaction>
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -938,7 +938,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -957,7 +957,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				225000.0
+				232405.614192
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -974,7 +974,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -993,7 +993,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				500000.0
+				516456.920428
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -1010,7 +1010,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1029,7 +1029,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				500000.0
+				516456.920428
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -1046,7 +1046,7 @@
 		<sector code="24010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1066,7 +1066,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				500000.0
+				490921.858269
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -1083,7 +1083,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1102,7 +1102,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				500000.0
+				516456.920428
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -1119,7 +1119,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1156,7 +1156,7 @@
 		<sector code="24010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1175,14 +1175,14 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				225000.0
+				220914.836221
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
 		</transaction>
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1290,7 +1290,7 @@
 		<sector code="24010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1310,7 +1310,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				850000.0
+				834567.159058
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -1327,7 +1327,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1347,7 +1347,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				174741.25
+				171568.598333
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -1382,7 +1382,7 @@
 		<sector code="15150" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1402,7 +1402,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				1406814.86
+				1381272.33062
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -1554,7 +1554,7 @@
 		<sector code="15150" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1591,7 +1591,7 @@
 		<sector code="15110" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1637,7 +1637,7 @@
 		<sector code="15150" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1764,7 +1764,7 @@
 		<sector code="15150" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1801,7 +1801,7 @@
 		<sector code="15150" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1820,7 +1820,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				19866366.84
+				20289869.7848
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -1837,7 +1837,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1856,7 +1856,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				24412381.11
+				23969142.9986
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -1873,7 +1873,7 @@
 		<sector code="33100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1910,7 +1910,7 @@
 		<sector code="11120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1930,7 +1930,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				421158.54
+				413511.866166
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -1974,7 +1974,7 @@
 		<sector code="14030" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -1994,7 +1994,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				69382556.83
+				68122827.4609
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -2011,7 +2011,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -2047,7 +2047,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -2111,7 +2111,7 @@
 		<sector code="11220" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -2373,7 +2373,7 @@
 		<sector code="11220" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -2393,7 +2393,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				2569724.33
+				2523067.68665
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -2545,7 +2545,7 @@
 		<sector code="43040" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -2582,7 +2582,7 @@
 		<sector code="52010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -2719,7 +2719,7 @@
 		<recipient-country code="BD" percentage="50.00"/>
 		<recipient-country code="IN" percentage="50.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -2739,7 +2739,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				25697243.27
+				25230676.837
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -2756,7 +2756,7 @@
 		<sector code="41020" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -2776,7 +2776,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				17217517.93
+				17584553.8155
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -3828,7 +3828,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -3928,7 +3928,7 @@
 		<sector code="43040" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4001,7 +4001,7 @@
 		<sector code="74010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4038,7 +4038,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4073,7 +4073,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4128,7 +4128,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4201,7 +4201,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4290,7 +4290,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4310,7 +4310,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2009-01-01">
-				9168661.36
+				9489241.13799
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2009-01-01"/>
@@ -4345,7 +4345,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4380,7 +4380,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4408,7 +4408,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4426,7 +4426,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				5297697.83
+				5410631.94873
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -4452,7 +4452,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4487,7 +4487,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4505,7 +4505,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				12848621.63
+				12615338.4136
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -4522,7 +4522,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4540,7 +4540,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				6604972.34
+				6745774.39297
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -4566,7 +4566,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4584,7 +4584,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				28266967.6
+				27753744.5237
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -4601,7 +4601,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4636,7 +4636,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4671,7 +4671,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4708,7 +4708,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4781,7 +4781,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4809,7 +4809,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4837,7 +4837,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4891,7 +4891,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4927,7 +4927,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4963,7 +4963,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -4999,7 +4999,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5035,7 +5035,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5071,7 +5071,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5107,7 +5107,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5136,7 +5136,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5165,7 +5165,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5221,7 +5221,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5259,7 +5259,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5288,7 +5288,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5307,7 +5307,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				486552.14
+				477718.161427
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -5324,7 +5324,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5362,7 +5362,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5391,7 +5391,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5420,7 +5420,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5439,7 +5439,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				800000000.0
+				785474973.231
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -5456,7 +5456,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5475,7 +5475,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				93860106.3
+				96949402.9014
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -5519,7 +5519,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5538,7 +5538,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				2559821.08
+				2644074.62365
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -5564,7 +5564,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5583,7 +5583,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				1706547.39
+				1762716.41921
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -5600,7 +5600,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -5619,7 +5619,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				4136670.87
+				4272824.59669
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -5771,7 +5771,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -6899,7 +6899,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -6919,7 +6919,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				5499477.0
+				5741375.92297
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -6999,7 +6999,7 @@
 		<sector code="15220" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -7019,7 +7019,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				411000000.0
+				419761527.042
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -7333,7 +7333,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -7363,7 +7363,7 @@
 		<sector code="41000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -7465,7 +7465,7 @@
 		<sector code="15220" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -7485,7 +7485,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				11479600.0
+				11724317.3378
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -7583,7 +7583,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -7739,7 +7739,7 @@
 		<sector code="33110" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -7769,7 +7769,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -7799,7 +7799,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -7829,7 +7829,7 @@
 		<sector code="15220" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -8579,7 +8579,7 @@
 		<sector code="15220" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -8816,7 +8816,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -8836,7 +8836,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				300000.0
+				306395.275213
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -8853,7 +8853,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -8873,7 +8873,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2002-01-01">
-				28348795.0
+				34855882.0762
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2002-01-01"/>
@@ -8890,7 +8890,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10054,7 +10054,7 @@
 		<sector code="15220" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10074,7 +10074,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				62862513.0
+				61721163.3949
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -10091,7 +10091,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10121,7 +10121,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10169,7 +10169,7 @@
 		<sector code="41000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10199,7 +10199,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10238,7 +10238,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10268,7 +10268,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10288,7 +10288,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2009-01-01">
-				11848773.0
+				12263062.1605
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2009-01-01"/>
@@ -10350,7 +10350,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10380,7 +10380,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10410,7 +10410,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10440,7 +10440,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10460,7 +10460,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2009-01-01">
-				13950856.0
+				14438643.9271
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2009-01-01"/>
@@ -10702,7 +10702,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10732,7 +10732,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10816,7 +10816,7 @@
 		<sector code="33110" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10836,7 +10836,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2006-01-01">
-				8300000.0
+				9114257.26243
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2006-01-01"/>
@@ -10907,7 +10907,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -10927,7 +10927,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2007-01-01">
-				57103080.0
+				60936993.075
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2007-01-01"/>
@@ -10998,7 +10998,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -11082,7 +11082,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -11102,7 +11102,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				14728074.0
+				15042040.9553
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -11308,7 +11308,7 @@
 		<sector code="15220" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -11328,7 +11328,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				700000.0
+				730790.063506
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -11354,7 +11354,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -11735,7 +11735,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -11765,7 +11765,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -11795,7 +11795,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -11815,7 +11815,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				500000.0
+				521992.902504
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -11832,7 +11832,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -11914,7 +11914,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -13031,7 +13031,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -13230,7 +13230,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -13258,7 +13258,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -13286,7 +13286,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -13503,7 +13503,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -13783,7 +13783,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -13811,7 +13811,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -13839,7 +13839,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14047,7 +14047,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14075,7 +14075,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14094,7 +14094,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				357054817.95
+				368806863.405
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -14111,7 +14111,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14130,7 +14130,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				210624123.68
+				217556572.567
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -14264,7 +14264,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14283,7 +14283,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				116142461.66
+				119965156.16
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -14300,7 +14300,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14319,7 +14319,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				296580816.3
+				306342430.088
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -14354,7 +14354,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14373,7 +14373,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				425018906.9
+				439007911.562
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -14390,7 +14390,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14409,7 +14409,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				107351086.97
+				110884423.562
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -14426,7 +14426,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14445,7 +14445,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				191975753.12
+				198294412.506
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -14579,7 +14579,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14598,7 +14598,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				63165449.72
+				62018599.9099
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -14624,7 +14624,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14660,7 +14660,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14696,7 +14696,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14777,7 +14777,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14805,7 +14805,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -14851,7 +14851,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -15968,7 +15968,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -15988,7 +15988,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				933735.0
+				916781.842662
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -16005,7 +16005,7 @@
 		<sector code="51010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -16025,7 +16025,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				2200000.0
+				2272410.44988
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -16042,7 +16042,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -16062,7 +16062,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2009-01-01">
-				29000000.0
+				30013977.1987
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2009-01-01"/>
@@ -16097,7 +16097,7 @@
 		<sector code="15140" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -16134,7 +16134,7 @@
 		<sector code="15140" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -16154,7 +16154,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				4000000.0
+				3927374.86615
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -16198,7 +16198,7 @@
 		<sector code="15140" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -16218,7 +16218,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				6943771.0
+				7091795.42188
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -16235,7 +16235,7 @@
 		<sector code="15140" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -16255,7 +16255,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				5500000.0
+				5741921.92755
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -16272,7 +16272,7 @@
 		<sector code="15140" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -16363,7 +16363,7 @@
 		<sector code="15140" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -16526,7 +16526,7 @@
 		<sector code="15140" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -16546,7 +16546,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				23802730.0
+				23370560.887
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -17139,7 +17139,7 @@
 		<sector code="99810" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -17176,7 +17176,7 @@
 		<sector code="15140" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -17196,7 +17196,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				7000000.0
+				6872906.01577
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -17249,7 +17249,7 @@
 		<sector code="15140" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -17286,7 +17286,7 @@
 		<sector code="74010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -17306,7 +17306,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2003-01-01">
-				50000000.0
+				60210626.4049
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2003-01-01"/>
@@ -17521,7 +17521,7 @@
 		<sector code="43010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -17541,7 +17541,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				50750000.0
+				51831867.3902
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -17639,7 +17639,7 @@
 		<sector code="74010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -17659,7 +17659,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				3000000.0
+				3063952.75213
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -17703,7 +17703,7 @@
 		<sector code="23030" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -17723,7 +17723,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2007-01-01">
-				102260000.0
+				109125758.398
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2007-01-01"/>
@@ -18613,7 +18613,7 @@
 		<sector code="14000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -18632,7 +18632,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2000-01-01">
-				60900000.0
+				77810608.2895
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2000-01-01"/>
@@ -18649,7 +18649,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -18669,7 +18669,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				115000000.0
+				117451522.165
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -18821,7 +18821,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -18841,7 +18841,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				84600000.0
+				88321199.1037
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -19938,7 +19938,7 @@
 		<sector code="31181" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -19958,7 +19958,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2006-01-01">
-				50000000.0
+				54905164.2315
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2006-01-01"/>
@@ -20011,7 +20011,7 @@
 		<sector code="24010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -20031,7 +20031,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				79000000.0
+				80684089.1395
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -20057,7 +20057,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -20077,7 +20077,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				149000000.0
+				155553884.946
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -20211,7 +20211,7 @@
 		<sector code="14000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -20231,7 +20231,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				350000000.0
+				365395031.753
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -20392,7 +20392,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -20412,7 +20412,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2007-01-01">
-				23600000.0
+				25184509.0768
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2007-01-01"/>
@@ -20429,7 +20429,7 @@
 		<sector code="15130" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -20449,7 +20449,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2009-01-01">
-				62200000.0
+				64374806.2675
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2009-01-01"/>
@@ -20547,7 +20547,7 @@
 		<sector code="21010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -20567,7 +20567,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				170000000.0
+				173623989.288
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -20656,7 +20656,7 @@
 		<sector code="14000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -20740,7 +20740,7 @@
 		<sector code="32000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -20770,7 +20770,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -20790,7 +20790,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				130700000.0
+				136448944.715
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -21878,7 +21878,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -21898,7 +21898,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2009-01-01">
-				81000000.0
+				83832143.2101
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2009-01-01"/>
@@ -22032,7 +22032,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -22052,7 +22052,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				35000000.0
+				36539503.1753
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -22411,7 +22411,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -22441,7 +22441,7 @@
 		<sector code="32000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -22461,7 +22461,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				109000000.0
+				113794452.746
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -22523,7 +22523,7 @@
 		<sector code="15130" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -22560,7 +22560,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -22669,7 +22669,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -22699,7 +22699,7 @@
 		<sector code="15130" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -22718,7 +22718,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				257000000.0
+				262478619.099
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -22789,7 +22789,7 @@
 		<sector code="24010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -22819,7 +22819,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -24665,7 +24665,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -24695,7 +24695,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -24715,7 +24715,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				210000000.0
+				216911906.58
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -24804,7 +24804,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -24895,7 +24895,7 @@
 		<sector code="32000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -24932,7 +24932,7 @@
 		<sector code="22040" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -24951,7 +24951,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				75000000.0
+				76598818.8033
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -25004,7 +25004,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -25024,7 +25024,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				70000000.0
+				68729060.1577
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -25086,7 +25086,7 @@
 		<sector code="15130" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -25106,7 +25106,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				75000000.0
+				73638278.7404
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -25123,7 +25123,7 @@
 		<sector code="14000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -25162,7 +25162,7 @@
 		<sector code="31000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -25182,7 +25182,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				302000000.0
+				296516802.395
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -25478,7 +25478,7 @@
 		<sector code="21010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -25515,7 +25515,7 @@
 		<sector code="15130" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -25824,7 +25824,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -26286,7 +26286,7 @@
 		<sector code="14000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -26397,7 +26397,7 @@
 		<sector code="31000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -26417,7 +26417,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				375000000.0
+				387342690.321
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -26776,7 +26776,7 @@
 		<sector code="14000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -26806,7 +26806,7 @@
 		<sector code="15130" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -26843,7 +26843,7 @@
 		<sector code="15130" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -27033,7 +27033,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -27053,7 +27053,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				155000000.0
+				152185776.063
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -27070,7 +27070,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -27090,7 +27090,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				130000000.0
+				127639683.15
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -28061,7 +28061,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -28091,7 +28091,7 @@
 		<sector code="15130" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -28111,7 +28111,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				500000000.0
+				516456920.428
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -28191,7 +28191,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -28210,7 +28210,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				34500000.0
+				35635527.5095
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -28236,7 +28236,7 @@
 		<sector code="15130" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -29390,7 +29390,7 @@
 		<sector code="31000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -29652,7 +29652,7 @@
 		<sector code="15130" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -29681,7 +29681,7 @@
 		<sector code="15130" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -29710,7 +29710,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -29729,7 +29729,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				125000000.0
+				129114230.107
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -29746,7 +29746,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -29765,7 +29765,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				265000000.0
+				273722167.827
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -29782,7 +29782,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -29801,7 +29801,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				140000000.0
+				144607937.72
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -29926,7 +29926,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -29956,7 +29956,7 @@
 		<sector code="15130" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -29986,7 +29986,7 @@
 		<sector code="15130" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -30015,7 +30015,7 @@
 		<sector code="21010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -30051,7 +30051,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -30070,7 +30070,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				3799891.82
+				3924960.85463
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -31167,7 +31167,7 @@
 		<sector code="12240" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -31212,7 +31212,7 @@
 		<sector code="43040" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -31257,7 +31257,7 @@
 		<sector code="11220" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -31276,7 +31276,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				147612214.91
+				154105057.012
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -32319,7 +32319,7 @@
 		<sector code="43040" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -32338,7 +32338,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				137974626.18
+				144043551.183
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -33471,7 +33471,7 @@
 		<sector code="41010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -33490,7 +33490,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2009-01-01">
-				115462618.54
+				119499737.937
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2009-01-01"/>
@@ -33507,7 +33507,7 @@
 		<sector code="43040" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -33527,7 +33527,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2007-01-01">
-				136005022.87
+				145136429.362
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2007-01-01"/>
@@ -33805,7 +33805,7 @@
 		<sector code="43030" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -33824,7 +33824,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				91917447.08
+				95960509.9841
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -35002,7 +35002,7 @@
 		<sector code="11120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -35021,7 +35021,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2007-01-01">
-				80636814.09
+				86050787.1344
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2007-01-01"/>
@@ -35047,7 +35047,7 @@
 		<sector code="25010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -35066,7 +35066,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2007-01-01">
-				90301263.52
+				96364109.7781
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2007-01-01"/>
@@ -35236,7 +35236,7 @@
 		<sector code="24010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -35255,14 +35255,14 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				59658200.48
+				61621780.9963
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
 		</transaction>
 		<sector code="13020" percentage="100.00" vocabulary="DAC"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -35281,7 +35281,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				61823660.93
+				64543024.4246
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -37413,7 +37413,7 @@
 		<sector code="15150" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -37432,7 +37432,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2007-01-01">
-				60327541.54
+				64377945.6565
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2007-01-01"/>
@@ -37449,7 +37449,7 @@
 		<sector code="15120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -37475,7 +37475,7 @@
 		</transaction>
 		<sector code="24010" percentage="100.00" vocabulary="DAC"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -37494,7 +37494,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2009-01-01">
-				46734844.6
+				48368915.8693
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2009-01-01"/>
@@ -37511,7 +37511,7 @@
 		<sector code="15110" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -37530,14 +37530,14 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				38692395.39
+				39965910.7342
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
 		</transaction>
 		<sector code="15150" percentage="100.00" vocabulary="DAC"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -37556,7 +37556,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				38859665.12
+				38154118.0249
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -37636,7 +37636,7 @@
 		<sector code="11330" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -37655,14 +37655,14 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				31271265.87
+				32300523.3382
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
 		</transaction>
 		<sector code="41010" percentage="100.00" vocabulary="DAC"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38013,7 +38013,7 @@
 		<sector code="72010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38032,7 +38032,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				28921585.35
+				29873505.8075
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -38085,7 +38085,7 @@
 		<sector code="15130" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38105,14 +38105,14 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2006-01-01">
-				25911027.55
+				28452984.4608
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2006-01-01"/>
 		</transaction>
 		<sector code="15110" percentage="100.00" vocabulary="DAC"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38131,14 +38131,14 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				18759946.15
+				19377408.032
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
 		</transaction>
 		<sector code="32130" percentage="100.00" vocabulary="DAC"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38157,14 +38157,14 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				14822754.95
+				15310628.7475
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
 		</transaction>
 		<sector code="16010" percentage="100.00" vocabulary="DAC"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38183,7 +38183,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				10955218.28
+				11188757.0664
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -38200,7 +38200,7 @@
 		<sector code="15110" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38220,7 +38220,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2005-01-01">
-				9999995.76
+				11335856.2501
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2005-01-01"/>
@@ -38237,7 +38237,7 @@
 		<sector code="15110" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38256,14 +38256,14 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2007-01-01">
-				9904503.05
+				10569493.5154
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2007-01-01"/>
 		</transaction>
 		<sector code="15110" percentage="100.00" vocabulary="DAC"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38282,14 +38282,14 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				11593648.66
+				11975240.1669
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
 		</transaction>
 		<sector code="25010" percentage="100.00" vocabulary="DAC"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38315,7 +38315,7 @@
 		</transaction>
 		<sector code="15110" percentage="100.00" vocabulary="DAC"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38334,7 +38334,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				2244937.22
+				2292793.85786
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -38351,7 +38351,7 @@
 		<sector code="15110" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38369,7 +38369,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2007-01-01">
-				202500000.0
+				216095893.561
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2007-01-01"/>
@@ -38386,7 +38386,7 @@
 		<sector code="14000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38405,7 +38405,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				50400000.0
+				49484923.3135
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -38422,7 +38422,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38441,7 +38441,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				60000000.0
+				61279055.0427
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -38458,7 +38458,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38477,7 +38477,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2005-01-01">
-				20000000.0
+				22671722.1131
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2005-01-01"/>
@@ -38494,7 +38494,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38513,7 +38513,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				400000.0
+				413165.536342
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -38530,7 +38530,7 @@
 		<sector code="15120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38567,7 +38567,7 @@
 		<sector code="21010" percentage="50.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38602,7 +38602,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38621,7 +38621,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				25800000.0
+				26349993.6683
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -38638,7 +38638,7 @@
 		<sector code="15120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38657,7 +38657,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				40000000.0
+				40852703.3618
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -38674,7 +38674,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38693,7 +38693,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				120675000.0
+				123247499.455
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -38712,7 +38712,7 @@
 		<sector code="21010" percentage="33.33" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38731,7 +38731,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				165000000.0
+				172257657.826
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -38748,7 +38748,7 @@
 		<sector code="24010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38767,7 +38767,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				10000000.0
+				9818437.16538
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -38784,7 +38784,7 @@
 		<sector code="21010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38803,7 +38803,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2009-01-01">
-				87000000.0
+				90041931.5961
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2009-01-01"/>
@@ -38820,7 +38820,7 @@
 		<sector code="14000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38839,7 +38839,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2007-01-01">
-				130000000.0
+				138728227.965
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2007-01-01"/>
@@ -38856,7 +38856,7 @@
 		<sector code="21010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38875,7 +38875,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				1000000.0
+				1032913.84086
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -38892,7 +38892,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -38928,7 +38928,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39020,7 +39020,7 @@
 		<sector code="14000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39039,7 +39039,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				20000000.0
+				19636874.3308
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -39057,7 +39057,7 @@
 		<sector code="21010" percentage="50.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39076,7 +39076,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2006-01-01">
-				41000000.0
+				45022234.6698
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2006-01-01"/>
@@ -39093,7 +39093,7 @@
 		<sector code="14000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39112,7 +39112,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				225000.0
+				232405.614192
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -39129,7 +39129,7 @@
 		<sector code="15120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39148,7 +39148,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				1000000.0
+				1032913.84086
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -39166,7 +39166,7 @@
 		<sector code="14000" percentage="50.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39195,7 +39195,7 @@
 		<sector code="12100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39214,7 +39214,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				300000000.0
+				294553114.962
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -39231,7 +39231,7 @@
 		<sector code="24010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39250,7 +39250,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				70000000.0
+				68729060.1577
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -39267,7 +39267,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39286,7 +39286,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				110000000.0
+				113620522.494
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -39303,7 +39303,7 @@
 		<sector code="24010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39339,7 +39339,7 @@
 		<sector code="14000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39358,7 +39358,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2009-01-01">
-				130500000.0
+				135062897.394
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2009-01-01"/>
@@ -39377,7 +39377,7 @@
 		<sector code="12100" percentage="33.33" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39406,7 +39406,7 @@
 		<sector code="24010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39425,7 +39425,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2007-01-01">
-				151500000.0
+				161671742.59
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2007-01-01"/>
@@ -39442,7 +39442,7 @@
 		<sector code="15120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39461,7 +39461,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				250000000.0
+				258228460.214
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -39478,7 +39478,7 @@
 		<sector code="14000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39497,7 +39497,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				55000000.0
+				56172467.1224
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -39514,7 +39514,7 @@
 		<sector code="31120" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39533,7 +39533,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				160000000.0
+				157094994.646
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -39550,7 +39550,7 @@
 		<sector code="21010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39569,7 +39569,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				185000000.0
+				181641087.56
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -39586,7 +39586,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39605,7 +39605,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2001-01-01">
-				51500000.0
+				64346388.3784
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2001-01-01"/>
@@ -39622,7 +39622,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39641,7 +39641,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				310000000.0
+				320203290.665
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -39658,7 +39658,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39677,7 +39677,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				100000000.0
+				103291384.086
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -39694,7 +39694,7 @@
 		<sector code="21010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39886,7 +39886,7 @@
 		<recipient-country code="BD" percentage="50.00"/>
 		<recipient-country code="IN" percentage="50.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39905,7 +39905,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				12000000.0
+				12394966.0903
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -39922,7 +39922,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="IN" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39941,7 +39941,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2005-01-01">
-				230000000.0
+				260724804.3
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2005-01-01"/>
@@ -39958,7 +39958,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -39994,7 +39994,7 @@
 		<sector code="21010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -40013,7 +40013,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				198000000.0
+				194405055.875
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -40030,7 +40030,7 @@
 		<sector code="21010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -40049,7 +40049,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2008-01-01">
-				50000000.0
+				52199290.2504
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2008-01-01"/>
@@ -40066,7 +40066,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -40085,7 +40085,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2012-01-01">
-				50000000.0
+				49092185.8269
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2012-01-01"/>
@@ -40102,7 +40102,7 @@
 		<sector code="24010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -40121,7 +40121,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				1000000.0
+				1032913.84086
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -40138,7 +40138,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -40157,7 +40157,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				1500000.0
+				1549370.76128
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -40174,7 +40174,7 @@
 		<sector code="21010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -40203,7 +40203,7 @@
 		<sector code="21010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -40222,7 +40222,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				23000000.0
+				23490304.433
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -40239,7 +40239,7 @@
 		<sector code="21010" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -40269,7 +40269,7 @@
 		<sector code="14000" percentage="50.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -40305,7 +40305,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -40334,7 +40334,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -40353,7 +40353,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2010-01-01">
-				266000000.0
+				271670477.356
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2010-01-01"/>
@@ -40370,7 +40370,7 @@
 		<sector code="23000" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
@@ -40389,7 +40389,7 @@
 		</participating-org>
 		<transaction>
 			<value currency="USD" value-date="2013-01-01">
-				90000000.0
+				92962245.677
 			</value>
 			<transaction-type code="C"/>
 			<transaction-date iso-date="2013-01-01"/>
@@ -40406,7 +40406,7 @@
 		<sector code="11100" percentage="100.00" vocabulary="DAC"/>
 		<recipient-country code="BD" percentage="100.00"/>
 	</iati-activity>
-	<iati-activity default-currency="USD" last-updated-datetime="2016-03-25T16:25:59" xml:lang="en">
+	<iati-activity default-currency="USD" last-updated-datetime="2016-04-06T17:13:22" xml:lang="en">
 		<reporting-org ref="US-501c3-522318905" type="21">
 			AidData
 		</reporting-org>
