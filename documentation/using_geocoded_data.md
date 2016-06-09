@@ -2,6 +2,7 @@
 AidData has developed Introduction to GIS Training Modules for QGIS (which is free and open source) and ArcGIS. This training is oriented towards new users of spatial information with the purpose of improving understanding and ability to use spatial information. The instructional tutorial will help users to join spatial information with other data, calculate new variables, and create cartographic outputs.  
 QGIS Training Module: http://bit.ly/aiddata-qgis   
 ArcGIS Training Module: http://bit.ly/aiddata-arcgis
+
 ###Using Data in Spreadsheets  
 Microsoft Excel has known limitations when working with TSV and CSV files that have character encodings like UTF8 (the character encoding of the AidData CSV Data). To avoid potential problems with character encodings, please use the “From Text” command on the Data menu when opening the CSV files. Double-clicking on the files to open in Excel or saving them as CSV from Excel may result in character encoding problems.  
 For instructions, see this link: http://bit.ly/18hp7pL  
