@@ -1,5 +1,5 @@
 ###Using Data in a GIS
-AidData has developed Introduction to GIS Training Modules for QGIS (which is free and open source) and ArcGIS. This training is oriented towards new users of spatial information with the purpose of improving understanding and ability to use spatial information. The instructional tutorial will help users to join spatial information with other data, calculate new variables, and create cartographic outputs.  
+AidData has developed Introduction to GIS Training Modules for QGIS (which is free and open source). This training is oriented towards new users of spatial information with the purpose of improving understanding and ability to use spatial information. The instructional tutorial will help users to join spatial information with other data, calculate new variables, and create cartographic outputs.  
 QGIS Training Module: https://github.com/AidData-WM/public_datasets/raw/master/documentation/QGIS%20Tutorial%20Final.zip   
 
 ###Using Data in Spreadsheets  
